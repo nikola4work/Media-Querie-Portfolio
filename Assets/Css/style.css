@@ -260,7 +260,7 @@ color: #4aaaa5;
         margin-left: 80px;
     }
     #main-nav {
-        font-size: 15px;
+        font-size: 20px;
         margin-top: 40px;
         margin-right: -20px;
     }
@@ -331,6 +331,8 @@ color: #4aaaa5;
     }
     #main-nav1 {
         font-size: 20px;
+        margin-top: 35px;
+        margin-right: 5px;
     }
 }
 
@@ -379,6 +381,15 @@ color: #4aaaa5;
         height: 250px;
     }
     .bottom {
+        display: none;
+    }
+}
+
+
+/*contact page*/
+
+@media screen and (max-width: 768px) {
+    footer {
         display: none;
     }
 }
