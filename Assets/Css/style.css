@@ -295,9 +295,10 @@ color: #4aaaa5;
         display: none;
     }
     #main-nav {
-        margin-top: -50px;
-        margin-left: 20px;
-        font-size: 15px;
+        margin-top: -30px;
+        margin-right: -20px;
+        font-size: 20px;
+        padding: 8px;
     }
 }
 
