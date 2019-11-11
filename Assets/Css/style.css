@@ -357,6 +357,7 @@ color: #4aaaa5;
 
 @media screen and (max-width: 768px) {
     .main-section1 {
+        margin-top: 30px;
         overflow: auto;
         width: 700px;
         padding-left: 60px;
