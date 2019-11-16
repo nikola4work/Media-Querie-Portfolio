@@ -89,14 +89,14 @@ body {
 }
 
 #social {
+    border: 2px solid grey;
     width: 350px;
     float: left;
-    height: 371px;
+    height: 395px;
     text-align: center;
     color: #4aaaa5;
     padding: 100px 15px;
     background-color: #ffffff;
-    border: 2px solid grey;
     margin-left: 10px;
     font-family: "Georgia", Times, Times New Roman, serif;
 }
@@ -113,6 +113,10 @@ body {
 .fab:hover {
     color: red;
     cursor: pointer;
+}
+
+.aboutpara {
+    font-size: 10px;
 }
 
 footer {
@@ -152,7 +156,7 @@ footer {
 
 textarea {
     resize: none;
-    height: 64px;
+    height: 85px;
     width: 500px;
 }
 
