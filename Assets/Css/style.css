@@ -296,13 +296,16 @@ color: #4aaaa5;
         padding-top: 40px;
     }
     .footer {
-        display: none;
+        position: relative;
     }
     #main-nav {
         margin-top: -30px;
         margin-right: -20px;
         font-size: 20px;
         padding: 8px;
+    }
+    .bottom {
+        display: none;
     }
 }
 
@@ -415,6 +418,6 @@ color: #4aaaa5;
 
 @media screen and (max-width: 768px) {
     footer {
-        display: none;
+        position: relative;
     }
 }
